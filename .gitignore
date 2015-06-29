@@ -6,3 +6,5 @@ gen/
 ic_launcher-web.png
 proguard-project.txt
 project.properties
+.setting/
+lint.xml
