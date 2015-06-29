@@ -1,0 +1,8 @@
+.classpath
+.DS_Store
+bin/
+assets/
+gen/
+ic_launcher-web.png
+proguard-project.txt
+project.properties
